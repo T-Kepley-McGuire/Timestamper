@@ -148,7 +148,7 @@ npm run build
 
 ## 📄 License
 
-[Add your license here]
+None yet
 
 ## 🆘 Support
 
