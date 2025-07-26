@@ -23,6 +23,8 @@ CORS(app,
          "http://127.0.0.1:5173",  # Vite dev server alternative
          "http://localhost:3000",  # Alternative dev port
          "http://127.0.0.1:3000",  # Alternative dev port
+         # Render domains
+         "https://*.onrender.com",
          # Add your production frontend URL here
          # "https://your-frontend-domain.com"
      ],
