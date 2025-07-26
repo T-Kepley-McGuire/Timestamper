@@ -24,7 +24,7 @@ CORS(app,
          "http://localhost:3000",  # Alternative dev port
          "http://127.0.0.1:3000",  # Alternative dev port
          # Render domains
-         "https://*.onrender.com",
+         "https://timestamper-backend.onrender.com",
          # Add your production frontend URL here
          # "https://your-frontend-domain.com"
      ],
