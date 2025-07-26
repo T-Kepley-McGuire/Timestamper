@@ -3,9 +3,9 @@ import os
 from cryptography.hazmat.primitives import serialization
 from cryptography.hazmat.backends import default_backend
 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
 PRIVATE_KEY_PEM = os.environ.get("PRIVATE_SIGNATURE_KEY")
 
